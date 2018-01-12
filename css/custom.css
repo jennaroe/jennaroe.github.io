@@ -1,0 +1,59 @@
+p.social {
+  text-align: center;
+  margin-top: 20px;
+}
+p.social a {
+  margin: 0 10px 0 0;
+  color: #fff;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  border-radius: 13px;
+  line-height: 26px;
+  font-size: 15px;
+  text-align: center;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  vertical-align: bottom;
+}
+p.social a i {
+  vertical-align: bottom;
+  line-height: 26px;
+}
+p.social a.facebook {
+  background-color: #4460ae;
+}
+p.social a.gplus {
+  background-color: #c21f25;
+}
+p.social a.twitter {
+  background-color: #3cf;
+}
+p.social a.instagram {
+  background-color: #cd4378;
+}
+p.social a.email {
+  background-color: #4a7f45;
+}
+
+
+.section h2.title {
+  display: inline-block;
+  font-size: 50px;
+  font-weight: 100;
+  /*padding: 10px 0;
+  margin-bottom: 34px;*/
+  text-align: center;
+  border-bottom: solid 1px #ccc;
+  border-top: solid 1px #ccc;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.section h2.title span {
+  font-size: 40px;
+}
+
+
+
+/* your styles go here */
